@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
-
 
 def batchGradientDescent(fileName,learning_Rate,threshold):
     import numpy as np;
@@ -55,10 +53,5 @@ def batchGradientDescent(fileName,learning_Rate,threshold):
         else:
             some = 1
    
-
-
-# In[ ]:
-
-
 
 
