@@ -13,6 +13,6 @@ iteration_number,weight0,weight1,weight2,...,weightN,sum_of_squared_errors
 The solution is rounded to 4 decimals and for the data sets, learning rate of 0.0001 and a threshold of 0.0001 is considered. Program accepts the following parameters:
 
 1. threshold - the change in error that has to fall below, before the algorithm terminates
-2. data - the location of the data file (ex: data.csv)
+2. data - the location of the data file (ex: media/data/records.csv)
 3. eta - the learning rate of the gradient descent 
 
